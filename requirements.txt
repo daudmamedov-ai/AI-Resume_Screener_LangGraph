@@ -1,0 +1,6 @@
+langchain
+langchain-google-genai
+langgraph
+pydantic==1.10.13
+python-dotenv
+langsmith
