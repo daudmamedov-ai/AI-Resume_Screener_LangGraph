@@ -1,0 +1,39 @@
+{
+    "candidate_info": {
+        "full_name": "ALEXANDER IVANOV",
+        "skills": [
+            "Python",
+            "SQL",
+            "R",
+            "Pandas",
+            "NumPy",
+            "Matplotlib",
+            "Scikit-learn",
+            "Tableau",
+            "PowerBI",
+            "Docker",
+            "Git",
+            "English",
+            "Russian"
+        ],
+        "education": "Bachelor of Science in Information Systems, Kazakh-British Technical University (KBTU)",
+        "experience_years": 4.0,
+        "current_role": "Middle Data Analyst"
+    },
+    "job_analysis": {
+        "fit_score": 90,
+        "matched_skills": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-learn",
+            "Tableau",
+            "PowerBI"
+        ],
+        "missing_skills": [],
+        "recommendation": "Invite",
+        "reasoning": "The candidate meets all the technical requirements, including the specific Python libraries and visualization tools requested. With 4 years of experience, they exceed the minimum requirement of 3 years, and their background in Scikit-learn aligns well with the Machine Learning 'plus' mentioned in the job description."
+    },
+    "processed_at": "2026-04-16T11:04:20.985338"
+}

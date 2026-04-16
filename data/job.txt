@@ -1,0 +1,18 @@
+Position: Senior Data Analyst (Python & SQL)
+Company: TechNova Solutions
+Location: Remote / Almaty
+
+About the Role:
+We are looking for a data-driven professional to join our analytics team. You will be responsible for building automated dashboards, performing deep-dive analyses, and optimizing data pipelines.
+
+Requirements:
+- Minimum 3 years of experience in Data Analysis or Software Engineering.
+- Strong proficiency in Python (Pandas, NumPy, Scikit-learn).
+- Advanced SQL skills (window functions, CTEs).
+- Experience with data visualization tools like Tableau or PowerBI.
+- Background in Machine Learning (Linear Regression, Clustering) is a big plus.
+- Education: Bachelor's degree in Computer Science, Math, or Economics.
+
+Soft Skills:
+- Problem-solving mindset.
+- Ability to explain complex data to non-technical stakeholders.

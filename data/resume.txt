@@ -1,0 +1,31 @@
+ALEXANDER IVANOV
+Data Analyst | Python Developer
+Email: alex.ivanov@email.com
+Phone: +7 707 123 45 67
+Location: Astana, Kazakhstan
+
+SUMMARY:
+Results-oriented Data Analyst with over 4 years of experience in interpreting and analyzing data to drive business growth. Expert in Python and SQL with a focus on automation.
+
+SKILLS:
+- Programming: Python (Expert), SQL (Advanced), R (Intermediate).
+- Libraries: Pandas, NumPy, Matplotlib, Scikit-learn.
+- Tools: Tableau, PowerBI, Docker, Git.
+- Languages: English (C1), Russian (Native).
+
+EXPERIENCE:
+Middle Data Analyst | GlobalLogistics
+(January 2022 - Present)
+- Automated monthly financial reporting using Python, saving 20+ hours of manual work per month.
+- Developed a predictive model for delivery delays using Random Forest, improving accuracy by 15%.
+- Optimized SQL queries in PostgreSQL, reducing dashboard load time by 40%.
+
+Junior Data Analyst | FinTech Group
+(June 2020 - December 2021)
+- Cleaned and processed datasets of 1M+ rows for the marketing department.
+- Created interactive dashboards in PowerBI to track customer churn.
+
+EDUCATION:
+Bachelor of Science in Information Systems
+Kazakh-British Technical University (KBTU)
+Graduated: 2020
