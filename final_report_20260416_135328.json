@@ -1,0 +1,40 @@
+{
+    "candidate_info": {
+        "full_name": "Alexander Ivanov",
+        "skills": [
+            "Python",
+            "SQL",
+            "R",
+            "Pandas",
+            "NumPy",
+            "Matplotlib",
+            "Scikit-learn",
+            "Tableau",
+            "PowerBI",
+            "Docker",
+            "Git",
+            "English",
+            "Russian"
+        ],
+        "education": "Bachelor of Science in Information Systems, Kazakh-British Technical University (KBTU)",
+        "experience_years": 4.0,
+        "current_role": "Middle Data Analyst"
+    },
+    "job_analysis": {
+        "fit_score": 92,
+        "matched_skills": [
+            "Python",
+            "SQL",
+            "Pandas",
+            "NumPy",
+            "Scikit-learn",
+            "Tableau",
+            "PowerBI",
+            "Machine Learning"
+        ],
+        "missing_skills": [],
+        "recommendation": "Invite",
+        "reasoning": "The candidate perfectly matches the technical stack, including the preferred Machine Learning background. He meets the minimum experience requirement of 3 years and has a relevant degree. While currently a Middle Analyst, his 4 years of experience and skill set make him a strong contender for this Senior role."
+    },
+    "processed_at": "2026-04-16T13:53:28.195677"
+}
